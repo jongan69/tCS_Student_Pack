@@ -1,3 +1,4 @@
+-- Should go in serversideScriptService
 game.Players.PlayerAdded:Connect(function(plr)
 	local f = Instance.new("Folder", plr)
 	f.Name = "leaderstats"
