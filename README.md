@@ -5,17 +5,19 @@ Mostly just roblox lau script, some parts but not the main focus of these
 ## Other Student Resources:
 
 Code Practice
-- LeetCode
+
+## LeetCode
 
 [Dynamic Programming Questions](https://leetcode.com/tag/dynamic-programming/)
 
 [Blind 75 Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
-- HackerRank
-- Repl.it
+## [FreeCodeCamp](https://www.freecodecamp.org/)
 
-Image Editing
-https://www.photopea.com/
+## [HackerRank](https://www.hackerrank.com/)
 
-Mobile Development
-https://expo.dev/
+## [Repl.it](https://replit.com/)
+
+## [Free Image Editing](https://www.photopea.com/)
+
+## [Mobile Development](https://expo.dev/)
