@@ -6,7 +6,10 @@ Mostly just roblox lau script, some parts but not the main focus of these
 
 Code Practice
 - LeetCode
-[Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
+
+[Dynamic Programming Questions](https://leetcode.com/tag/dynamic-programming/)
+[Blind 75 Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
 - HackerRank
 - Repl.it
 
