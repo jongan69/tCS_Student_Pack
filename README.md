@@ -9,7 +9,6 @@ A Bunch of Useful Resources for Roblox Lau Scripting, Made for students getting 
 [MIT Scratch](https://scratch.mit.edu/)
 
 
-
 ## Code Practice
 
 ### LeetCode
@@ -21,6 +20,8 @@ A Bunch of Useful Resources for Roblox Lau Scripting, Made for students getting 
 [HackerRank](https://www.hackerrank.com/)
 
 [FreeCodeCamp](https://www.freecodecamp.org/)
+
+[Free DataCamp Python Course](https://www.datacamp.com/onboarding/learn?technology=python)
 
 
 ## IDE / DEV
