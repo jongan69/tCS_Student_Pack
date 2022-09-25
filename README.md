@@ -4,6 +4,7 @@ A Bunch of Useful Resources for Roblox Lau Scripting, Made for students getting 
 
 ## Basics
 
+[MIT Scratch](https://scratch.mit.edu/)
 
 ## Code Practice
 
