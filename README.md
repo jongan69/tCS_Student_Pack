@@ -1,23 +1,30 @@
-# tCS_Student_Pack
+# Student_Pack
 
-Mostly just roblox lau script, some parts but not the main focus of these
+A Bunch of Useful Resources for Roblox Lau Scripting, Made for students getting start programming
 
-## Other Student Resources:
+## Basics
 
-Code Practice
 
-## LeetCode
+## Code Practice
+
+### LeetCode
 
 [Dynamic Programming Questions](https://leetcode.com/tag/dynamic-programming/)
 
 [Blind 75 Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
-## [FreeCodeCamp](https://www.freecodecamp.org/)
+[HackerRank](https://www.hackerrank.com/)
 
-## [HackerRank](https://www.hackerrank.com/)
+[FreeCodeCamp](https://www.freecodecamp.org/)
 
-## [Repl.it](https://replit.com/)
 
-## [Free Image Editing](https://www.photopea.com/)
+### IDE / DEV
 
-## [Mobile Development](https://expo.dev/)
+[Repl.it](https://replit.com/)
+
+
+### UI/UX Tools
+
+[Free Image Editing](https://www.photopea.com/)
+
+[Mobile Development](https://expo.dev/)
