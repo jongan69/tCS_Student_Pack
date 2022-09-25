@@ -6,16 +6,21 @@ A Bunch of Useful Resources for Roblox Lau Scripting, Made for students getting 
 
 ## Basics
 
+[New Student To Do List](https://csb-prx1oq.vercel.app/)
+
 [MIT Scratch](https://scratch.mit.edu/)
+
 
 
 ## Code Practice
 
-### LeetCode
+LeetCode
 
 [Dynamic Programming Questions](https://leetcode.com/tag/dynamic-programming/)
 
 [Blind 75 Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
+
 
 [HackerRank](https://www.hackerrank.com/)
 
@@ -24,9 +29,13 @@ A Bunch of Useful Resources for Roblox Lau Scripting, Made for students getting 
 [Free DataCamp Python Course](https://www.datacamp.com/onboarding/learn?technology=python)
 
 
+
 ## IDE / DEV
 
 [Repl.it](https://replit.com/)
+
+[CodeSandBox](https://codesandbox.io/)
+
 
 
 ## UI/UX Tools
