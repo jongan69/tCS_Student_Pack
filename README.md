@@ -23,12 +23,12 @@ A Bunch of Useful Resources for Roblox Lau Scripting, Made for students getting 
 [FreeCodeCamp](https://www.freecodecamp.org/)
 
 
-### IDE / DEV
+## IDE / DEV
 
 [Repl.it](https://replit.com/)
 
 
-### UI/UX Tools
+## UI/UX Tools
 
 [Free Image Editing](https://www.photopea.com/)
 
