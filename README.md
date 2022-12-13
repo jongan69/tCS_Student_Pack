@@ -45,3 +45,8 @@ LeetCode
 [Mobile Development](https://expo.dev/)
 
 [No Code Mobile App Development](https://thunkable.com/#/)
+
+
+Resources From Projects:
+
+[Roblox Game Tutorial](https://create.roblox.com/docs/education/battle-royale-series/coding-the-game-loop#setting-up-the-scripts)
