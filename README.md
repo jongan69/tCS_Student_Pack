@@ -50,3 +50,5 @@ LeetCode
 ## Resources From Projects:
 
 [Roblox Game Tutorial](https://create.roblox.com/docs/education/battle-royale-series/coding-the-game-loop#setting-up-the-scripts)
+
+[Expo Figma Template](https://www.figma.com/community/file/1155362909441341285)
