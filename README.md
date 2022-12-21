@@ -1,6 +1,6 @@
 # Student_Pack
 
-A Bunch of Useful Resources for Roblox Lau Scripting, Made for students getting start programming
+Useful Roblox Lau Scripting Components and New coding student resources, Made for students getting started programming.
 
 <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
